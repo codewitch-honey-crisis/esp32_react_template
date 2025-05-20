@@ -1,4 +1,4 @@
-# react_template
+# esp32_react_template
 
 This is a starting point PlatformIO w/ ESP-IDF project
 
